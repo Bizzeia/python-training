@@ -13,7 +13,7 @@ for x in fruits:
 
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
-  if x == "banana":  #appena arriva a banan stampa tutte le cose prima, banana esclusa
+  if x == "banana":  #appena arriva a banana stampa tutte le cose prima, banana esclusa
     break
   print(x) 
 
@@ -52,10 +52,4 @@ for x in adj:
 
 for x in [0, 1, 2]:
     pass    #inserisco pass per non ricevere errore, se ho dei loop vuoti
-
-esercizio 5 
-
-
-import random  #con il comando random sceglie un numero a caso tra il range scelto
-
-print(random.randrange(1, 10))
+  
