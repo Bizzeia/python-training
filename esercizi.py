@@ -31,10 +31,11 @@ print (animali)
 animali = ["tgtg", "egeg", "erfw", "sdjg", "rgf"]
 numeri = [233, 51, 45, 56, 87]
 
-z = animali + numeri
-print(z)
+print(animali + numeri)
 
-for y in numeri:
+f
+
+for x in numeri:
     if x > 5:
         print(x)
 
