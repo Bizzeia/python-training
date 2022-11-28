@@ -33,7 +33,6 @@ numeri = [233, 51, 45, 56, 87]
 
 print(animali + numeri)
 
-f
 
 for x in numeri:
     if x > 5:
